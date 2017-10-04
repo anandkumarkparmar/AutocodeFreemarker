@@ -1,0 +1,30 @@
+{
+    "schoolName": "Demo School",
+    "yearOfEstablishment": 2014,
+    "students": [
+        {
+            "name": "Ajay",
+            "rollNumber": "0001",
+            "age": 16,
+            "favSubject": "Math"
+        },
+        {
+            "name": "Janhvi",
+            "rollNumber": "0002",
+            "age": 15,
+            "favSubject": "Drawing"
+        },
+        {
+            "name": "Kanji",
+            "rollNumber": "0003",
+            "age": 16,
+            "favSubject": "Math"
+        },
+        {
+            "name": "Radha",
+            "rollNumber": "0004",
+            "age": 16,
+            "favSubject": "Music"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "dataModelsPath": "datamodels",
+    "templatePath": "templates",
+    "entitiesPath": "entities",
+    "generatedFilesPath": "autocode_generated"
+}

@@ -10,6 +10,6 @@ public class DemoApplication{
     public static void main(String[] args){
         AutocodeFreemarker autocode = new AutocodeFreemarker();
 
-        autocode.create("demo_template.ftl", "demo_datamodel.json", "temp/chemp/demo_output.html");
+        autocode.create("demo_template.ftl", "demo_datamodel.json", "demo_output.html");
     }
 }
